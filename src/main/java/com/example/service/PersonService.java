@@ -30,7 +30,7 @@ public class PersonService {
 		p.setId("3");
 		p.setAge(25);
 		p.setFirstName("Basem");
-		p.setLastName("Salama");
+		p.setLastName("Salma");
 		persons.add(p);
 		
 		p = new Person();
